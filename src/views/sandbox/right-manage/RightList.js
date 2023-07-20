@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function TopHeader() {
+export default function RightList() {
   return (
     <div>
-          TopHeader
+      RightList
     </div>
   )
 }
