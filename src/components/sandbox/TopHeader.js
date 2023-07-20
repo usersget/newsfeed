@@ -1,9 +1,10 @@
+
 import React from 'react'
 
-export default function NewsSandbox() {
+export default function TopHeader() {
   return (
     <div>
-        NewsSandbox
+      TopHeader
     </div>
   )
 }
